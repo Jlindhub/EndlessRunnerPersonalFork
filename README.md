@@ -37,6 +37,7 @@ https://github.com/forsbergsskola-se/EndlessRunner/assets/9976716/5eb6d680-95b8-
 ![image](https://github.com/forsbergsskola-se/EndlessRunner/assets/9976716/e3e74324-62f7-4ace-8b04-4987d15ef4a4)
 ![image](https://github.com/forsbergsskola-se/EndlessRunner/assets/9976716/94c00b66-b20f-4d1b-beab-34b8f122dca3)
 ![image](https://github.com/forsbergsskola-se/EndlessRunner/assets/9976716/e49f18cf-7588-4b70-b3ef-27d7b5aa69af)
+![image](https://github.com/forsbergsskola-se/EndlessRunner/assets/9976716/e0d952e2-4151-4fdd-9996-42310a40bb2c)
 ![image](https://github.com/forsbergsskola-se/EndlessRunner/assets/9976716/5ada5383-e094-4d55-8ae8-38c25e70f2b7)
 ![image](https://github.com/forsbergsskola-se/EndlessRunner/assets/9976716/9b84ebc9-8488-4711-89b0-8d171724f483)
 
