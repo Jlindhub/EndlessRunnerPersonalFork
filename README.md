@@ -40,6 +40,8 @@ https://github.com/forsbergsskola-se/EndlessRunner/assets/9976716/5eb6d680-95b8-
 ![image](https://github.com/forsbergsskola-se/EndlessRunner/assets/9976716/e0d952e2-4151-4fdd-9996-42310a40bb2c)
 ![image](https://github.com/forsbergsskola-se/EndlessRunner/assets/9976716/5ada5383-e094-4d55-8ae8-38c25e70f2b7)
 ![image](https://github.com/forsbergsskola-se/EndlessRunner/assets/9976716/9b84ebc9-8488-4711-89b0-8d171724f483)
+![FinalProject2 Presentation3](https://github.com/forsbergsskola-se/EndlessRunner/assets/9976716/f47ca17d-6a74-415b-a8a4-50afe0387dac)
+
 
 ## Google Play Store Link
 https://play.google.com/store/apps/details?id=com.forsbergsskola.sk8escape
